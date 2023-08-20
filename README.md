@@ -136,12 +136,15 @@
 
 
 </p>
-
+<p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NiranjanHebli&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="NiranjanHebli" />
-
+</p>
+<p>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=NiranjanHebli&show_icons=true&theme=tokyonight&locale=en" alt="NiranjanHebli" />
+  </p>
+<p>
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=NiranjanHebli&theme=tokyonight" alt="NiranjanHebli" />
-<br/>
+</p>
 <!---
 NiranjanHebli/NiranjanHebli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
