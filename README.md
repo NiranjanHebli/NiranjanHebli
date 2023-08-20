@@ -1,14 +1,14 @@
 
 
 <h1 align="center">Hi 👋, I'm Niranjan Hebli</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h2 align="center">Full Stack Developer</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NiranjanHebli&label=Profile%20views&color=0e75b6&style=flat" alt="NiranjanHebli" /> </p>
 
 <h1 >🏆 Github Trophies</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NiranjanHebli&theme=darkhub&margin-w=15" alt="NiranjanHebli" /></a> </p>
 
-
+## About Me
 
 - 📝 I write regular blogs on [medium](https://medium.com/@niranjanhebli)
 
@@ -19,17 +19,33 @@
 
 - ⚡ Fun fact **I love Python**
 
-<h3 align="left">Connect with me:</h3>
+## Profile-Stats
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=NiranjanHebli&show_icons=true&theme=tokyonight&locale=en" alt="NiranjanHebli" />
+  </p>
+
+  <p>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=NiranjanHebli&theme=tokyonight" alt="NiranjanHebli" />
+</p>
+
+
+<br/>
+
+
+## Connect with me: 
+
+
 <p align="left">
 <a href="https://www.linkedin.com/in/niranjan-hebli-333211211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/niranjan-hebli-333211211/" height="30" width="40" /></a>
 <a href="https://instagram.com/niranjanhebli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
   <a href="https://twitter.com/NiranjanHebli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  
+<br/>
 
+## Languages and Tools:
+
+<p align="left"> 
 <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   
@@ -139,13 +155,4 @@
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NiranjanHebli&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="NiranjanHebli" />
 </p>
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=NiranjanHebli&show_icons=true&theme=tokyonight&locale=en" alt="NiranjanHebli" />
-  </p>
-<p>
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=NiranjanHebli&theme=tokyonight" alt="NiranjanHebli" />
-</p>
-<!---
-NiranjanHebli/NiranjanHebli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
