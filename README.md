@@ -20,7 +20,7 @@
 - ⚡ Fun fact **I love Python**
 
 ## Profile-Stats
-<div>
+<p>
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=NiranjanHebli&show_icons=true&theme=tokyonight&locale=en" alt="NiranjanHebli" />
   </p>
@@ -29,7 +29,7 @@
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=NiranjanHebli&theme=tokyonight" alt="NiranjanHebli" />
 </p>
 
-</div>
+</p>
 <br/>
 
 
