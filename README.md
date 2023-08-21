@@ -2,6 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Niranjan Hebli</h1>
 <h2 align="center">Full Stack Developer</h2>
+![snake gif](https://github.com/NiranjanHebli/NiranjanHebli/blob/output/github-contribution-grid-snake.gif)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NiranjanHebli&label=Profile%20views&color=0e75b6&style=flat" alt="NiranjanHebli" /> </p>
 
