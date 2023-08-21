@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Niranjan Hebli</h1>
 <h2 align="center">Full Stack Developer</h2>
+
 ![snake gif](https://github.com/NiranjanHebli/NiranjanHebli/blob/output/github-contribution-grid-snake.gif)
 
 
