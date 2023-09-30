@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Niranjan Hebli</h1>
 <h2 align="center">Full Stack Developer</h2>
 
-
+ [![@Niranjan's Holopin board](https://holopin.io/api/user/board?user=niranjanhebli)](https://holopin.io/@niranjanhebli)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NiranjanHebli&label=Profile%20views&color=0e75b6&style=flat" alt="NiranjanHebli" /> </p>
 
@@ -137,7 +137,7 @@
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=NiranjanHebli&theme=tokyonight" alt="NiranjanHebli" />
 </p>
 <p>
-  [![@Niranjan's Holopin board](https://holopin.io/api/user/board?user=niranjanhebli)](https://holopin.io/@niranjanhebli)
+ 
 </p>
 </p>
 
