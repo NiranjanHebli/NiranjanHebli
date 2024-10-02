@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Python , Javascript, Web Development, Machine Learning, Artificial Intelligence, Cloud Computing**
 
-- 📫 How to reach me **niranjanhebli666@gmail.com**
+- 📫 How to reach me **hebliniranjan@gmail.com**
 
 
 - ⚡ Fun fact **I love Python**
