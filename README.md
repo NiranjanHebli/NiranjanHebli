@@ -7,6 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NiranjanHebli&label=Profile%20views&color=0e75b6&style=flat" alt="NiranjanHebli" /> </p>
 
 <h1 >🏆 Github Trophies</h1>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NiranjanHebli&theme=darkhub&margin-w=15" alt="NiranjanHebli" /></a> </p>
 
 ## About Me
@@ -122,17 +123,6 @@
 
 
 ## Profile-Stats
-<p>
-  
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NiranjanHebli&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="NiranjanHebli" />
-</p>
-
-<p>
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=NiranjanHebli&show_icons=true&theme=tokyonight&locale=en" alt="NiranjanHebli" />
-  </p>
-
-  <p>
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=NiranjanHebli&theme=tokyonight" alt="NiranjanHebli" />
 </p>
 <p>
