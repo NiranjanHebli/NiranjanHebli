@@ -10,29 +10,37 @@
   <img src="https://komarev.com/ghpvc/?username=NiranjanHebli&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
+<div align="center">
+    <img loading="lazy" src="https://montasim-github-profile-trophy.vercel.app?username=NiranjanHebli&theme=radical&no-bg=true&no-frame=true&row=1&column=7&rank=SSS,SS,S,AAA,AA,A"  alt="github profile trophy"/>
+</div>
+
+
+
 ## 🙋‍♂️ About Me
 - 📝 I write regular blogs on [Medium](https://medium.com/@niranjanhebli)
 - 💬 Ask me about **Python, Javascript, Web Development, Machine Learning, Artificial Intelligence, Cloud Computing**
 - 📫 How to reach me **hebliniranjan@gmail.com**
 - ⚡ Fun fact **I love Python**
 
----
 
-## 🌐 Connect with me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/niranjan-hebli-333211211/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/NiranjanHebli" target="blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://instagram.com/niranjanhebli" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+## 📈 GitHub Stats
+
+<div align="left">
+
+| ![Stats](https://github-readme-stats.vercel.app/api?username=NiranjanHebli&show_icons=true&theme=tokyonight&hide_border=true&title_color=70a5fd&icon_color=bf91f3) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiranjanHebli&layout=compact&theme=tokyonight&hide_border=true&title_color=70a5fd) |
+| :---: | :---: |
+
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NiranjanHebli&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
----
+
+
+
+</div>
+
 
 ## 💻 Tech Stack
 
@@ -52,33 +60,32 @@
 ---
 
 
-### Contribution Streak 
+## 📈 Activity Graph
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NiranjanHebli&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-
-## 🏆 GitHub Trophies
-
-
-
-
+<!-- GitHub readme activity graph start -->
 <div align="center">
-    <img loading="lazy" src="https://montasim-github-profile-trophy.vercel.app?username=NiranjanHebli&theme=radical&no-bg=true&no-frame=true&row=1&column=7&rank=SSS,SS,S,AAA,AA,A"  alt="github profile trophy"/>
+    <img loading="lazy" alt="visitor badge" src="https://montasim-github-readme-activity-graph.vercel.app/graph?username=NiranjanHebli&bg_color=0d1117&color=00b8b5&line=eb008b&point=FFFFFF&area=true&hide_border=true&hide_title=true">
 </div>
+<!-- GitHub readme activity graph end -->
 
 
 
+## 🌐 Connect with me
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/niranjan-hebli-333211211/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/NiranjanHebli" target="blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://instagram.com/niranjanhebli" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
 ---
 
-## 📈 GitHub Metrics
 
-<div align="leftr">
 
-| ![Stats](https://github-readme-stats.vercel.app/api?username=NiranjanHebli&show_icons=true&theme=tokyonight&hide_border=true&title_color=70a5fd&icon_color=bf91f3) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiranjanHebli&layout=compact&theme=tokyonight&hide_border=true&title_color=70a5fd) |
-| :---: | :---: |
 
-</div>
