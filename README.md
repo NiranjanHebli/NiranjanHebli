@@ -51,10 +51,24 @@
 
 ---
 
+
+### Contribution Streak 
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NiranjanHebli&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+
 ## 🏆 GitHub Trophies
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=NiranjanHebli&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+<div align="center">
+    <img loading="lazy" src="https://montasim-github-profile-trophy.vercel.app?username=NiranjanHebli&theme=radical&no-bg=true&no-frame=true&row=1&column=7&rank=SSS,SS,S,AAA,AA,A"  alt="github profile trophy"/>
+</div>
+
+
 
 
 
@@ -62,13 +76,9 @@
 
 ## 📈 GitHub Metrics
 
-<div align="center">
+<div align="leftr">
 
 | ![Stats](https://github-readme-stats.vercel.app/api?username=NiranjanHebli&show_icons=true&theme=tokyonight&hide_border=true&title_color=70a5fd&icon_color=bf91f3) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiranjanHebli&layout=compact&theme=tokyonight&hide_border=true&title_color=70a5fd) |
 | :---: | :---: |
 
 </div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NiranjanHebli&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
