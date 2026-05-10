@@ -28,10 +28,6 @@
 
 <div align="left">
 
-| ![Stats](https://github-readme-stats.vercel.app/api?username=NiranjanHebli&show_icons=true&theme=tokyonight&hide_border=true&title_color=70a5fd&icon_color=bf91f3) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiranjanHebli&layout=compact&theme=tokyonight&hide_border=true&title_color=70a5fd) |
-| :---: | :---: |
-
-
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NiranjanHebli&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
